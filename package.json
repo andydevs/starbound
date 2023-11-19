@@ -2,6 +2,10 @@
   "name": "starbound",
   "displayName": "Starbound",
   "description": "",
+  "author": {
+    "name": "andydevs",
+    "url": "https://andydevs.github.io"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"

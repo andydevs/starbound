@@ -4,8 +4,6 @@ Starbound
 Andydevs's Dark VSCode Theme based on my Starbound
 color palette
 
-![Palette](starbbound-palette.svg)
-
 Colors Used
 --------------------------------------------------------
 
